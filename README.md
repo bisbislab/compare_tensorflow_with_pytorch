@@ -5,6 +5,7 @@ Mnist を学習させるサンプル実装の TensorFlow と PyTorch の比較
 ## 実行環境
 
 - Python: 3.10
+- TensorFlow: 2.12.0
 - PyTorch: 2.0.0
 
 以下 venv か Docker のどちらかに従う
